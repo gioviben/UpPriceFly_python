@@ -1,0 +1,12 @@
+/build/
+/out/
+*.log
+.idea/
+.gradle/
+/venv/
+*.tmp
+.env
+*.lock
+local.properties
+/__pycache__/
+/TelegramManager/__pycache__/
